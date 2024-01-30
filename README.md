@@ -1,5 +1,7 @@
 # Revolutionize Your Betting Game with Advanced Strategies & Analytics
 
+![](img.jpeg)
+
 ## 🚀 Explore the Edge of Betting Strategies with Python and OddsJam
 
 Welcome to the ultimate Jupyter notebook for modern betting enthusiasts and data analysts! This notebook is your key to unlocking a new realm of possibilities in the betting world. Dive into cutting-edge strategies, leverage the power of the OddsJam API, and harness Python’s potential to create unbeatable betting algorithms.
