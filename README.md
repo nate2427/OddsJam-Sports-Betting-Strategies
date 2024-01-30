@@ -13,7 +13,7 @@ What’s Inside:
 
 Perfect for:
 
-	•	Data Analysts in the Betting Sphere
+	* Data Analysts in the Betting Sphere
 	•	Sports Betting Enthusiasts
 	•	Python Developers with a Passion for Sports
 	•	Anyone Interested in Market Analytics and Strategy Development
