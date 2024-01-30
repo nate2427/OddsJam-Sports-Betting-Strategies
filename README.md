@@ -38,5 +38,5 @@ Perfect for:
 
 ### 🌟 Elevate your betting game to new heights with this comprehensive guide, blending the art of strategy with the precision of data analytics. Your journey to becoming a top-tier betting strategist starts here!
 
-buy me a tea:
-cash app: $nate2427
+# Buy a tea for me 🤗:
+## Cash App: $nate2427
