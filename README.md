@@ -7,8 +7,11 @@ Welcome to the ultimate Jupyter notebook for modern betting enthusiasts and data
 What’s Inside:
 
 •	Comprehensive Betting Strategy Guide: Uncover a wealth of knowledge on crafting winning betting strategies. Whether you’re a beginner or a seasoned bettor, these insights will elevate your game.
+
 •	OddsJam API Mastery: Learn how to effectively utilize the OddsJam API, a goldmine for data-driven betting.
+
 •	Python-Powered Analysis: Get hands-on with Python to analyze betting data like a pro. Our notebook guides you through practical, easy-to-understand examples.
+
 •	Build Your Own Betting Algorithms: Step-by-step instructions to develop robust betting algorithms that can adapt to changing market dynamics.
 
 Perfect for:
